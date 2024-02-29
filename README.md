@@ -3,7 +3,9 @@ This repository contains the codebase for the Life Data Epidemiology project con
 
 ## Contributors
 Bedin Veronica
+
 Isotton Gloria
+
 Nadillia Saputra
 
 ## Acknowledgments
