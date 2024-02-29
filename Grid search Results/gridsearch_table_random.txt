@@ -1,0 +1,11 @@
+random
+random
+Best weights for peak infected: (0.7, 0.95, 0.3, 0.4, 0.5)
+Best metric for peak infected: 154.66666666666666
+Best weights for deaths: (0.7, 0.95, 0.3, 0.4, 0.5)
+Best metric for deaths: 17.266666666666666
+Median weights for peak infected: (0.6, 0.85, 0.4, 0.4, 0.5)
+Median metric for peak infected: 232.0
+Median weights for deaths: (0.7, 0.85, 0.2, 0.6, 0.5)
+Median metric for deaths: 25.333333333333332
+Elapsed time: 24331.87802386284 seconds

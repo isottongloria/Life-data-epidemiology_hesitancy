@@ -1,0 +1,243 @@
+Parameters: w_infected=0.6, w_adv_reaction=0.85, w_vax_death=0.2, w_no_vax_death=0.4
+Peak deaths: 23.133333333333333
+
+Parameters: w_infected=0.6, w_adv_reaction=0.85, w_vax_death=0.2, w_no_vax_death=0.5
+Peak deaths: 24.6
+
+Parameters: w_infected=0.6, w_adv_reaction=0.85, w_vax_death=0.2, w_no_vax_death=0.6
+Peak deaths: 28.0
+
+Parameters: w_infected=0.6, w_adv_reaction=0.85, w_vax_death=0.3, w_no_vax_death=0.4
+Peak deaths: 27.7
+
+Parameters: w_infected=0.6, w_adv_reaction=0.85, w_vax_death=0.3, w_no_vax_death=0.5
+Peak deaths: 26.633333333333333
+
+Parameters: w_infected=0.6, w_adv_reaction=0.85, w_vax_death=0.3, w_no_vax_death=0.6
+Peak deaths: 31.7
+
+Parameters: w_infected=0.6, w_adv_reaction=0.85, w_vax_death=0.4, w_no_vax_death=0.4
+Peak deaths: 26.5
+
+Parameters: w_infected=0.6, w_adv_reaction=0.85, w_vax_death=0.4, w_no_vax_death=0.5
+Peak deaths: 29.833333333333332
+
+Parameters: w_infected=0.6, w_adv_reaction=0.85, w_vax_death=0.4, w_no_vax_death=0.6
+Peak deaths: 26.366666666666667
+
+Parameters: w_infected=0.6, w_adv_reaction=0.9, w_vax_death=0.2, w_no_vax_death=0.4
+Peak deaths: 27.666666666666668
+
+Parameters: w_infected=0.6, w_adv_reaction=0.9, w_vax_death=0.2, w_no_vax_death=0.5
+Peak deaths: 26.433333333333334
+
+Parameters: w_infected=0.6, w_adv_reaction=0.9, w_vax_death=0.2, w_no_vax_death=0.6
+Peak deaths: 22.766666666666666
+
+Parameters: w_infected=0.6, w_adv_reaction=0.9, w_vax_death=0.3, w_no_vax_death=0.4
+Peak deaths: 22.866666666666667
+
+Parameters: w_infected=0.6, w_adv_reaction=0.9, w_vax_death=0.3, w_no_vax_death=0.5
+Peak deaths: 28.166666666666668
+
+Parameters: w_infected=0.6, w_adv_reaction=0.9, w_vax_death=0.3, w_no_vax_death=0.6
+Peak deaths: 26.133333333333333
+
+Parameters: w_infected=0.6, w_adv_reaction=0.9, w_vax_death=0.4, w_no_vax_death=0.4
+Peak deaths: 28.666666666666668
+
+Parameters: w_infected=0.6, w_adv_reaction=0.9, w_vax_death=0.4, w_no_vax_death=0.5
+Peak deaths: 26.8
+
+Parameters: w_infected=0.6, w_adv_reaction=0.9, w_vax_death=0.4, w_no_vax_death=0.6
+Peak deaths: 22.666666666666668
+
+Parameters: w_infected=0.6, w_adv_reaction=0.95, w_vax_death=0.2, w_no_vax_death=0.4
+Peak deaths: 25.0
+
+Parameters: w_infected=0.6, w_adv_reaction=0.95, w_vax_death=0.2, w_no_vax_death=0.5
+Peak deaths: 18.1
+
+Parameters: w_infected=0.6, w_adv_reaction=0.95, w_vax_death=0.2, w_no_vax_death=0.6
+Peak deaths: 24.266666666666666
+
+Parameters: w_infected=0.6, w_adv_reaction=0.95, w_vax_death=0.3, w_no_vax_death=0.4
+Peak deaths: 26.433333333333334
+
+Parameters: w_infected=0.6, w_adv_reaction=0.95, w_vax_death=0.3, w_no_vax_death=0.5
+Peak deaths: 24.9
+
+Parameters: w_infected=0.6, w_adv_reaction=0.95, w_vax_death=0.3, w_no_vax_death=0.6
+Peak deaths: 22.466666666666665
+
+Parameters: w_infected=0.6, w_adv_reaction=0.95, w_vax_death=0.4, w_no_vax_death=0.4
+Peak deaths: 23.2
+
+Parameters: w_infected=0.6, w_adv_reaction=0.95, w_vax_death=0.4, w_no_vax_death=0.5
+Peak deaths: 27.4
+
+Parameters: w_infected=0.6, w_adv_reaction=0.95, w_vax_death=0.4, w_no_vax_death=0.6
+Peak deaths: 25.8
+
+Parameters: w_infected=0.7, w_adv_reaction=0.85, w_vax_death=0.2, w_no_vax_death=0.4
+Peak deaths: 27.433333333333334
+
+Parameters: w_infected=0.7, w_adv_reaction=0.85, w_vax_death=0.2, w_no_vax_death=0.5
+Peak deaths: 28.866666666666667
+
+Parameters: w_infected=0.7, w_adv_reaction=0.85, w_vax_death=0.2, w_no_vax_death=0.6
+Peak deaths: 26.366666666666667
+
+Parameters: w_infected=0.7, w_adv_reaction=0.85, w_vax_death=0.3, w_no_vax_death=0.4
+Peak deaths: 26.066666666666666
+
+Parameters: w_infected=0.7, w_adv_reaction=0.85, w_vax_death=0.3, w_no_vax_death=0.5
+Peak deaths: 22.233333333333334
+
+Parameters: w_infected=0.7, w_adv_reaction=0.85, w_vax_death=0.3, w_no_vax_death=0.6
+Peak deaths: 22.8
+
+Parameters: w_infected=0.7, w_adv_reaction=0.85, w_vax_death=0.4, w_no_vax_death=0.4
+Peak deaths: 26.266666666666666
+
+Parameters: w_infected=0.7, w_adv_reaction=0.85, w_vax_death=0.4, w_no_vax_death=0.5
+Peak deaths: 28.166666666666668
+
+Parameters: w_infected=0.7, w_adv_reaction=0.85, w_vax_death=0.4, w_no_vax_death=0.6
+Peak deaths: 30.866666666666667
+
+Parameters: w_infected=0.7, w_adv_reaction=0.9, w_vax_death=0.2, w_no_vax_death=0.4
+Peak deaths: 25.3
+
+Parameters: w_infected=0.7, w_adv_reaction=0.9, w_vax_death=0.2, w_no_vax_death=0.5
+Peak deaths: 21.5
+
+Parameters: w_infected=0.7, w_adv_reaction=0.9, w_vax_death=0.2, w_no_vax_death=0.6
+Peak deaths: 23.533333333333335
+
+Parameters: w_infected=0.7, w_adv_reaction=0.9, w_vax_death=0.3, w_no_vax_death=0.4
+Peak deaths: 22.5
+
+Parameters: w_infected=0.7, w_adv_reaction=0.9, w_vax_death=0.3, w_no_vax_death=0.5
+Peak deaths: 25.633333333333333
+
+Parameters: w_infected=0.7, w_adv_reaction=0.9, w_vax_death=0.3, w_no_vax_death=0.6
+Peak deaths: 24.666666666666668
+
+Parameters: w_infected=0.7, w_adv_reaction=0.9, w_vax_death=0.4, w_no_vax_death=0.4
+Peak deaths: 26.8
+
+Parameters: w_infected=0.7, w_adv_reaction=0.9, w_vax_death=0.4, w_no_vax_death=0.5
+Peak deaths: 25.866666666666667
+
+Parameters: w_infected=0.7, w_adv_reaction=0.9, w_vax_death=0.4, w_no_vax_death=0.6
+Peak deaths: 21.533333333333335
+
+Parameters: w_infected=0.7, w_adv_reaction=0.95, w_vax_death=0.2, w_no_vax_death=0.4
+Peak deaths: 22.266666666666666
+
+Parameters: w_infected=0.7, w_adv_reaction=0.95, w_vax_death=0.2, w_no_vax_death=0.5
+Peak deaths: 27.033333333333335
+
+Parameters: w_infected=0.7, w_adv_reaction=0.95, w_vax_death=0.2, w_no_vax_death=0.6
+Peak deaths: 25.7
+
+Parameters: w_infected=0.7, w_adv_reaction=0.95, w_vax_death=0.3, w_no_vax_death=0.4
+Peak deaths: 26.7
+
+Parameters: w_infected=0.7, w_adv_reaction=0.95, w_vax_death=0.3, w_no_vax_death=0.5
+Peak deaths: 27.4
+
+Parameters: w_infected=0.7, w_adv_reaction=0.95, w_vax_death=0.3, w_no_vax_death=0.6
+Peak deaths: 25.466666666666665
+
+Parameters: w_infected=0.7, w_adv_reaction=0.95, w_vax_death=0.4, w_no_vax_death=0.4
+Peak deaths: 27.933333333333334
+
+Parameters: w_infected=0.7, w_adv_reaction=0.95, w_vax_death=0.4, w_no_vax_death=0.5
+Peak deaths: 27.666666666666668
+
+Parameters: w_infected=0.7, w_adv_reaction=0.95, w_vax_death=0.4, w_no_vax_death=0.6
+Peak deaths: 22.566666666666666
+
+Parameters: w_infected=0.8, w_adv_reaction=0.85, w_vax_death=0.2, w_no_vax_death=0.4
+Peak deaths: 26.8
+
+Parameters: w_infected=0.8, w_adv_reaction=0.85, w_vax_death=0.2, w_no_vax_death=0.5
+Peak deaths: 31.1
+
+Parameters: w_infected=0.8, w_adv_reaction=0.85, w_vax_death=0.2, w_no_vax_death=0.6
+Peak deaths: 29.566666666666666
+
+Parameters: w_infected=0.8, w_adv_reaction=0.85, w_vax_death=0.3, w_no_vax_death=0.4
+Peak deaths: 28.166666666666668
+
+Parameters: w_infected=0.8, w_adv_reaction=0.85, w_vax_death=0.3, w_no_vax_death=0.5
+Peak deaths: 22.833333333333332
+
+Parameters: w_infected=0.8, w_adv_reaction=0.85, w_vax_death=0.3, w_no_vax_death=0.6
+Peak deaths: 25.233333333333334
+
+Parameters: w_infected=0.8, w_adv_reaction=0.85, w_vax_death=0.4, w_no_vax_death=0.4
+Peak deaths: 27.466666666666665
+
+Parameters: w_infected=0.8, w_adv_reaction=0.85, w_vax_death=0.4, w_no_vax_death=0.5
+Peak deaths: 24.8
+
+Parameters: w_infected=0.8, w_adv_reaction=0.85, w_vax_death=0.4, w_no_vax_death=0.6
+Peak deaths: 24.666666666666668
+
+Parameters: w_infected=0.8, w_adv_reaction=0.9, w_vax_death=0.2, w_no_vax_death=0.4
+Peak deaths: 30.033333333333335
+
+Parameters: w_infected=0.8, w_adv_reaction=0.9, w_vax_death=0.2, w_no_vax_death=0.5
+Peak deaths: 25.666666666666668
+
+Parameters: w_infected=0.8, w_adv_reaction=0.9, w_vax_death=0.2, w_no_vax_death=0.6
+Peak deaths: 22.733333333333334
+
+Parameters: w_infected=0.8, w_adv_reaction=0.9, w_vax_death=0.3, w_no_vax_death=0.4
+Peak deaths: 21.766666666666666
+
+Parameters: w_infected=0.8, w_adv_reaction=0.9, w_vax_death=0.3, w_no_vax_death=0.5
+Peak deaths: 28.4
+
+Parameters: w_infected=0.8, w_adv_reaction=0.9, w_vax_death=0.3, w_no_vax_death=0.6
+Peak deaths: 31.233333333333334
+
+Parameters: w_infected=0.8, w_adv_reaction=0.9, w_vax_death=0.4, w_no_vax_death=0.4
+Peak deaths: 27.066666666666666
+
+Parameters: w_infected=0.8, w_adv_reaction=0.9, w_vax_death=0.4, w_no_vax_death=0.5
+Peak deaths: 25.866666666666667
+
+Parameters: w_infected=0.8, w_adv_reaction=0.9, w_vax_death=0.4, w_no_vax_death=0.6
+Peak deaths: 24.066666666666666
+
+Parameters: w_infected=0.8, w_adv_reaction=0.95, w_vax_death=0.2, w_no_vax_death=0.4
+Peak deaths: 25.433333333333334
+
+Parameters: w_infected=0.8, w_adv_reaction=0.95, w_vax_death=0.2, w_no_vax_death=0.5
+Peak deaths: 28.266666666666666
+
+Parameters: w_infected=0.8, w_adv_reaction=0.95, w_vax_death=0.2, w_no_vax_death=0.6
+Peak deaths: 29.666666666666668
+
+Parameters: w_infected=0.8, w_adv_reaction=0.95, w_vax_death=0.3, w_no_vax_death=0.4
+Peak deaths: 26.933333333333334
+
+Parameters: w_infected=0.8, w_adv_reaction=0.95, w_vax_death=0.3, w_no_vax_death=0.5
+Peak deaths: 24.233333333333334
+
+Parameters: w_infected=0.8, w_adv_reaction=0.95, w_vax_death=0.3, w_no_vax_death=0.6
+Peak deaths: 22.966666666666665
+
+Parameters: w_infected=0.8, w_adv_reaction=0.95, w_vax_death=0.4, w_no_vax_death=0.4
+Peak deaths: 29.1
+
+Parameters: w_infected=0.8, w_adv_reaction=0.95, w_vax_death=0.4, w_no_vax_death=0.5
+Peak deaths: 24.766666666666666
+
+Parameters: w_infected=0.8, w_adv_reaction=0.95, w_vax_death=0.4, w_no_vax_death=0.6
+Peak deaths: 28.133333333333333
+
