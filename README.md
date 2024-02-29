@@ -1,6 +1,6 @@
 ## Overview
 
-<img src="GIFS/network_evolutionHUBS.gif" alt="Alt Text" width="150" height="150">
+<img src="GIFS/network_evolutionHUBS.gif" alt="Alt Text" width="300" height="300">
 
 This repository contains the codebase for the Life Data Epidemiology project conducted at the University of Padova under the supervision of Professor Chiara Poletto. The project's primary objective is to model vaccine hesitancy and analyze the impact of various initial configurations of hesitant individuals. The project employs the SIRV compartmental model with multiple susceptible stages and explores the dynamics on a Barabási-Albert network.
 
